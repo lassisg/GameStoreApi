@@ -1,0 +1,2 @@
+﻿### GET genres
+GET http://localhost:5274/genres
